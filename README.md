@@ -3,7 +3,7 @@
 
 Note: mainly used for learning CSS and HTML
 
-- responsive design
+- responsive web design
 - mousemove with blur effect
 - pure CSS
 
